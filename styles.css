@@ -1,0 +1,10 @@
+.origin-line {
+  fill: none;
+  stroke: #bababa;
+  stroke-width: 1;
+  stroke-dasharray: 10, 10;
+}
+
+.invisible {
+  visibility: hidden;
+}
