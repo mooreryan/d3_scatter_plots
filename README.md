@@ -2,6 +2,8 @@
 
 I wanted to play around with scatter plots in d3.  So here it is!
 
+![](demo/d3_scatter_plots_demo.gif)
+
 ## How to run it
 
 * Clone the repository
